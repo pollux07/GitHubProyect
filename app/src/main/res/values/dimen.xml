@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_layout">16dp</dimen>
+    <dimen name="width_raised_button">250dp</dimen>
+    <dimen name="elevation_raised_button">2dp</dimen>
+</resources>

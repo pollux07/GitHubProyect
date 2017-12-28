@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Repositorios</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="welcome_instructions">Seleccione el lenguaje que desea consultar:</string>
+    <string name="Accept">Aceptar</string>
+    <string name="repo_name">name</string>
+    <string name="title_activity_repo_info">Información</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_profile">Imagen de perfil</string>
+    <string name="repo_fullname">Nombre completo del repositorio</string>
+    <string name="repo_desc">Descripción:</string>
+    <string name="stars">Stars</string>
+    <string name="forks">Forks</string>
+    <string name="watchers">Watchers</string>
+    <string name="contrib_profile">Contribuidor</string>
+    <string name="created_by">Created by: </string>
+    <string name="contributors">Contribuidores:</string>
+    <string name="issues">Issues:</string>
+    <string name="created_at">Created at:</string>
+</resources>
